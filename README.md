@@ -13,7 +13,7 @@
 
 _Run the project locally by following the steps below 👇_
 
-1. Install Goland or Vscode (with Plugin)
+1. Install Goland or Vscode (with plugin)
 2. Clone the repo
    ```sh
    git clone https://github.com/rian-fuzinelli/calculator-go
